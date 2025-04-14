@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+app.txt
+app1.txt
+misc.txt
+app_test.py
+app nims-hf-pcdb.py

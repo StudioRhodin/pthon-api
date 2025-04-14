@@ -1,0 +1,13 @@
+openai
+torch
+langchain-pinecone
+langchain
+langchain-nvidia-ai-endpoints
+langchain-community
+requests
+Flask
+textblob
+pinecone-client
+python-dotenv
+google-search-results
+Flask-Cors
