@@ -1,3 +1,3 @@
-# 🐍 Python API – [Your Project Name]
+# 🐍 Python API – Studio Rhodin
 
 A lightweight, fast, and scalable RESTful API built using Python and Flask. This API provides endpoints for RAG Chatbot.
